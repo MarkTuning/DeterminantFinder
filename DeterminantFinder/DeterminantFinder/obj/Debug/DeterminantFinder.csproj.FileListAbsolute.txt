@@ -1,0 +1,6 @@
+D:\Projects\DeterminantFinder\DeterminantFinder\bin\Debug\DeterminantFinder.exe
+D:\Projects\DeterminantFinder\DeterminantFinder\bin\Debug\DeterminantFinder.pdb
+D:\Projects\DeterminantFinder\DeterminantFinder\obj\Debug\DeterminantFinder.csprojAssemblyReference.cache
+D:\Projects\DeterminantFinder\DeterminantFinder\obj\Debug\DeterminantFinder.csproj.CoreCompileInputs.cache
+D:\Projects\DeterminantFinder\DeterminantFinder\obj\Debug\DeterminantFinder.exe
+D:\Projects\DeterminantFinder\DeterminantFinder\obj\Debug\DeterminantFinder.pdb
